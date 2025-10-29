@@ -68,3 +68,26 @@ Your work will be automatically submitted when you push to your GitHub Classroom
 - [Tailwind CSS Documentation](https://tailwindcss.com/docs)
 - [Vite Documentation](https://vitejs.dev/guide/)
 - [React Router Documentation](https://reactrouter.com/) 
+
+## Added by assistant
+- Added ThemeContext (light/dark) and components: Navbar, Footer, Card, Posts (API integration).
+- Updated App.jsx with routing and pages (Home, Posts).
+- Zipped as react-assignment-completed.zip for download.
+
+
+## Final Updates (Assignment Aligned)
+- Responsive **Navbar** with hamburger menu and active link highlighting.
+- **Posts** now uses infinite scroll instead of pagination.
+- Added smooth Tailwind **transitions** for hover and animations.
+- Dependencies (`react-router-dom`, `tailwindcss`) confirmed.
+
+### To Run
+1. Install dependencies:  
+   ```bash
+   npm install
+   ```
+2. Start development server:  
+   ```bash
+   npm run dev
+   ```
+3. Open browser at the shown local URL.
